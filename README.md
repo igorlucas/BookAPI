@@ -1,2 +1,2 @@
 # BookStore
-repositório do treinamento Introdução API
+exemplo de api que fornece registro de livros e autores
